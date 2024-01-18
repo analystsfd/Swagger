@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/Dazaiii1/Swagger/main/dialogue.yaml",
+    "url": "https://raw.githubusercontent.com/Dazaiii1/Swagger/main/dialogue/dialogue.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Dazaiii1/Swagger/main/dialogue.yaml",
+            "url": "https://raw.githubusercontent.com/Dazaiii1/Swagger/main/dialogue/dialogue.yaml",
             "name": "New: Official Dialogue Advertisement"
         }
     ]
